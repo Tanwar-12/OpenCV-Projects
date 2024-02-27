@@ -16,6 +16,7 @@ As you delve into OpenCV projects, remember that every line of code is a step fo
 
 
 Remember: Every bug you encounter is an opportunity to learn, and every successful project is a testament to your growing expertise. Your dedication to Python and OpenCV is commendable, and the skills you're developing will undoubtedly open doors to exciting opportunities in the world of computer vision.
+
 <div align="center">
 <p> Happy Learning !</p>
 <div>
