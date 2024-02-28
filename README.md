@@ -1,11 +1,5 @@
-<div align="center">
 
-![welcome-fire](https://github.com/Tanwar-12/OpenCV-Projects/assets/110081008/4cad3978-426c-4cce-b3be-e26d4f9e58e8)
-
-</div><div align="center">
-  <img src="https://github.com/Tanwar-12/OpenCV-Projects/assets/110081008/064fff66-fac2-4da1-b8da-73b49e3c9fc5" alt="">
-</div>
-
+![100 DAYS OF PYTHON (1)](https://github.com/Tanwar-12/OpenCV-Projects/assets/110081008/b77bf383-5001-4886-97ab-f05038b90af2)
 
 Welcome to the world of OpenCV and Python!  Whether you're diving into computer vision, image processing, or machine learning, you're embarking on an exciting journey of exploration and creativity. May your coding adventures be filled with curiosity, challenges, and triumphs!
 
